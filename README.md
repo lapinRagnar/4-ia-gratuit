@@ -5,3 +5,8 @@
 - https://gamma.app/
 - https://aistudio.google.com/prompts/new_chat
 - https://www.napkin.ai/
+
+
+--------- autres -----
+
+chatgpt operator
