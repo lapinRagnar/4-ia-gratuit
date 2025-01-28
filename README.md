@@ -10,3 +10,4 @@
 --------- autres -----
 
 chatgpt operator
+deepSeek
