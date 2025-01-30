@@ -12,4 +12,5 @@
 - chatgpt operator
 - deepSeek
 - https://chat.qwenlm.ai/
+- claude ai
 
