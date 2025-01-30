@@ -9,5 +9,7 @@
 
 --------- autres -----
 
-chatgpt operator
-deepSeek
+- chatgpt operator
+- deepSeek
+- https://chat.qwenlm.ai/
+
