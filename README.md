@@ -14,3 +14,9 @@
 - https://chat.qwenlm.ai/
 - claude ai
 
+
+---------------------
+- vertex ai google :
+https://console.cloud.google.com/vertex-ai/studio/media?inv=1&invt=AbxfYQ&project=netflixclone-nextauthv5
+
+- 
